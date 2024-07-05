@@ -1,6 +1,4 @@
-Here's the `README.md` file with the content you provided:
 
-```markdown
 # GOHealthChecker
 
 ## Purpose

@@ -21,9 +21,9 @@ The primary purpose of the code is to:
 ## Output of the Code
 
 
-```markdown
-![Alt text](https://github.com/nihar-15/GoHealthCheck/blob/main/sampleOutput.png)
-```
+
+![Sample Output](https://github.com/nihar-15/GoHealthCheck/blob/main/sampleOutput.png)
+
 
 
 

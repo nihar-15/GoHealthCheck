@@ -24,7 +24,7 @@ The primary purpose of the code is to:
 
 
 ```markdown
-![Alt text](URL_to_image)
+![Alt text](https://github.com/nihar-15/GoHealthCheck/blob/main/sampleOutput.png)
 ```
 
 
@@ -114,14 +114,6 @@ The `cli.App` struct defines an application with the following fields:
 20. **HideVersion**: A boolean to hide the version command.
 ```
 
-### Adding an Image to `README.md`
-
-To add an image to your `README.md`, you can use the following Markdown syntax:
-
-
-Replace `Alt text` with a description of the image and `URL_to_image` with the URL where the image is hosted. If the image is in your repository, you can use a relative path:
-
-```markdown
 ![Screenshot](images/screenshot.png)
 ```
 

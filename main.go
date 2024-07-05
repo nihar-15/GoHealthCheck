@@ -11,7 +11,7 @@ import (
 func main() {
 	app := &cli.App{
 		Name:  "Healthchecker",
-		Usage: "A tiny tool that checks the given domain is down.",
+		Usage: "A tiny tool that checks if the given domain is down.",
 		Flags: []cli.Flag{
 			&cli.StringFlag{
 				Name:     "domain",
@@ -28,7 +28,7 @@ func main() {
 		},
 		Action: func(c *cli.Context) error {
 			port := c.String("port")
-			if c.String("port") == "" {
+			if port == "" {
 				port = "80"
 			}
 			status := Check(c.String("domain"), port)

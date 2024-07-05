@@ -110,9 +110,5 @@ The `cli.App` struct defines an application with the following fields:
 18. **EnableBashCompletion**: A boolean enabling bash completion.
 19. **HideHelp**: A boolean to hide the help command.
 20. **HideVersion**: A boolean to hide the version command.
-```
 
-![Screenshot](images/screenshot.png)
-```
 
-Ensure that the image is in the correct path relative to your `README.md` file.
